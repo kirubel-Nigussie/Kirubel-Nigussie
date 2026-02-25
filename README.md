@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a project to build a real-time chat application using React and Firebase.<br>👯‍♂️ I'm looking to collaborate on on a machine learning projects that can positively impact society<br>🤝 I'm looking for help  with machine learning to train a model to recognize Crop Disease<br>🚀 I'm currently learning backend development at ALX<br>💬 Ask me about web development <br>
+🔭 I'm currently working on a project to build a real-time chat application using React and Firebase.<br>👯‍♂️ I'm looking to collaborate on on a machine learning projects that can positively impact society<br>🤝 I'm looking for help  with machine learning to train a model to recognize Crop Disease<br>💬 Ask me about web development <br>
 
 
 ## 🌐 Socials:
